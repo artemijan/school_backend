@@ -1,2 +1,3 @@
 .idea
 env
+src/school_backend/db.sqlite3
