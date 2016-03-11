@@ -1,4 +1,5 @@
 # Start app via WSGI
 ```shell
-    uwsgi --ini school_backend.ini
+    source env/bin/activate
+    uwsgi --ini school_backend_wsgi.ini
 ```
